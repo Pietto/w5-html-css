@@ -1,0 +1,22 @@
+na uitwerken ontwerp:2 pagina's (recepten hoofdgerecht/nagerecht)
+totaal is dus 3 gangen menu
+
+komt exact overeen met origineel
+via menu tussen pagina's navigeren
+
+
+html/css valideren (https://validator.w3.org/#validate_by_upload)
+html/css uitlijnen
+roboto als font
+div om pagina te centreren (margin 0px boven en onder, links rechts margine: 0 auto)
+p=20px lijn hoogte 26px
+hoofdtitel=36px lijn hoogte 36px
+titels=32px lijn hoogte 32px
+ruimte tussen delen 40px
+ingredienten 10px tussen elkaar
+bereidingswijze 20px uit elkaar
+tip op achtergrond #def6ed/border radius 4 px paragraaf 25px van de rand element
+net menu in de pagina
+
+
+	margin:40px, 1000px, 40px, -70px;
